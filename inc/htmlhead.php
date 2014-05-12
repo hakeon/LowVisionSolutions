@@ -2,7 +2,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
 <link href="css/style.css" rel="stylesheet" type="text/css" />
-<link id="currentCSS" href="css/defaultColors.css" rel="stylesheet" type="text/css" />
+<link id="currentCSS" href="css/style.css" rel="stylesheet" type="text/css" />
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
 <script src="js/jquery-accessibleMegaMenu.js"></script>

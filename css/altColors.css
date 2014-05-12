@@ -1,7 +1,17 @@
 html, body, h1, h2, h3, p, a { 
-	color:#FFFF33; 
-	background-color:#000000; 
+	color:#28d23d; 
+	background-color:#424242; 
 }
+
+#colorswitch {
+	color:#28d23d; 
+	background-color:#424242;
+	float: right; 
+	width: 10em;
+	border: 1px #28d23d solid;
+	padding:0 1em 1em 1em; margin:0px 2.5em 0px 0px;
+}
+
 
  /* mega menu list */
 .nav-menu {

@@ -9,8 +9,6 @@
 	<?php include("inc/header.php");?>
 	<?php include("inc/nav.php");?>
 
-  <h1>Conference report</h1>
-  <p>Last week's conference presented an impressive line-up of speakers...</p>
 
   <?php include("inc/footer.php");?>
 </div>	

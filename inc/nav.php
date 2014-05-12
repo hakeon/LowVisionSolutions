@@ -1,43 +1,40 @@
 <nav>
 	<ul class="nav-menu">
 		<li class="nav-item">
-			<a href="?movie">Movies</a>
+			<a href="index.php">Home Page</a>
+		</li>
+		<li class="nav-item">
+			<a href="inc/liveWithLV.php">Living With Low Vision</a>
 			<div class="sub-nav">
 				<ul class="sub-nav-group">
-					<li><a href="?movie&genre=0">Action &amp; Adventure</a></li>
-					<li><a href="?movie&genre=2">Children &amp; Family</a></li>
-					<li>&#8230;</li>
-				</ul>
+					<li><a href="inc/lifeAdaptation.php">Home &amp; Lifestyle Adaptation</a></li></ul>
 				<ul class="sub-nav-group">
-					<li><a href="?movie&genre=7">Dramas</a></li>
-					<li><a href="?movie&genre=9">Foreign</a></li>
-					<li>&#8230;</li>
-				</ul>
+					<li><a href="inc/workplace.php">The Workplace</a></li></ul>
 				<ul class="sub-nav-group">
-					<li><a href="?movie&genre=14">Musicals</a></li>
-					<li><a href="?movie&genre=15">Romance</a></li>
-					<li>&#8230;</li>
-				</ul>
+					<li><a href="inc/products.php">Helpful Products</a></li></ul>
+				<ul class="sub-nav-group">
+					<li><a href="inc/recreation.php">Recreation &amp; Leisure</a></li></ul>
+				<ul class="sub-nav-group">
+					<li><a href="inc/support.php">Support Groups</a></li></ul>
+				<ul class="sub-nav-group">	
+					<li><a href="inc/family.php">For Friends &amp; Family</a></li></ul>
 			</div>
 		</li>
 		<li class="nav-item">
-			<a href="?tv">TV Shows</a>
+			<a href="inc/typesLV.php">Types of Low Vision</a>
 			<div class="sub-nav">
 				<ul class="sub-nav-group">
-					<li><a href="?tv&genre=20">Classic TV</a></li>
-					<li><a href="?tv&genre=21">Crime TV</a></li>
-					<li>&#8230;</li>
-				</ul>
+					<li><a href="inc/AMD.php">Age Related Macular Degeneration (AMD)</a></li></ul>
 				<ul class="sub-nav-group">
-					<li><a href="?tv&genre=27">Reality TV</a></li>
-					<li><a href="?tv&genre=30">TV Action</a></li>
-					<li>&#8230;</li>
-				</ul>
+					<li><a href="inc/cataracts.php">Cataracts</a></li></ul>
 				<ul class="sub-nav-group">
-					<li><a href="?tv&genre=33">TV Dramas</a></li>
-					<li><a href="?tv&genre=34">TV Horror</a></li>
-					<li>&#8230;</li>
-				</ul>
+					<li><a href="inc/retinopathy.php">Diabetic Retinopathy</a></li></ul>
+				<ul class="sub-nav-group">
+					<li><a href="inc/glaucoma.php">Glaucoma</a></li></ul>
+				<ul class="sub-nav-group">
+					<li><a href="inc/retinitis.php">Retinitis Pigmentosa</a></li></ul>
+				<ul class="sub-nav-group">
+					<li><a href="inc/glossary.php">Glossary</a></li></ul>
 			</div>
 		</li>
 	</ul>
