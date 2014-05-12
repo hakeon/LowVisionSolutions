@@ -7,17 +7,6 @@
 <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
 <script src="js/jquery-accessibleMegaMenu.js"></script>
 <script type="text/javascript" src="js/colorswitcher.js"></script>
-	<!--PHP style switch disabled
-	<?php
-	$thestyle = $_GET['set'];
-	if ($thestyle == "style1") {
-		$thestyle = "style2";
-	}
-	else {
-		$thestyle = "style1";
-	}
-	?>
-	<link rel="stylesheet" type="text/css" media="screen" href="css/<?php echo($thestyle);?>.css" >-->
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
