@@ -42,7 +42,7 @@ h1, h2, h3, a:hover, a:active {
 }
 
 #altColors {
-	color: #28d23d;
+	color: #28D23D;
 	font-weight: bold;
 }
 
@@ -63,11 +63,26 @@ hr.style-one {
     background-image:      -o-linear-gradient(left, #EEEC9F, #990000, #EEEC9F); 
 }
 
-#footer {
-	font-size: 0.75em;
-	margin-top: 90%;
+.content {
+	padding: 5em 5em 0px 15%;
+	/*padding-left: 20%;
+	padding-top: 10em;*/
 }
 
+#emailPrompt {
+	padding-left: 20%;
+	font-size: 200%;
+}
+
+#footer {
+	font-size: 0.75em;
+	float: right;
+}
+
+#contentPending {
+	padding-left: 33%;
+	text-shadow: 1px 1px 5px #241717;
+}
 
  /* mega menu list */
 .nav-menu {

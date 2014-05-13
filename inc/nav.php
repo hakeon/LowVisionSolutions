@@ -4,37 +4,37 @@
 			<a href="index.php">Home Page</a>
 		</li>
 		<li class="nav-item">
-			<a href="inc/liveWithLV.php">Living With Low Vision</a>
+			<a href="liveWithLV.php">Living With Low Vision</a>
 			<div class="sub-nav">
 				<ul class="sub-nav-group">
-					<li><a href="inc/lifeAdaptation.php">Home &amp; Lifestyle Adaptation</a></li></ul>
+					<li><a href="lifeAdaptation.php">Home &amp; Lifestyle Adaptation</a></li></ul>
 				<ul class="sub-nav-group">
-					<li><a href="inc/workplace.php">The Workplace</a></li></ul>
+					<li><a href="workplace.php">The Workplace</a></li></ul>
 				<ul class="sub-nav-group">
-					<li><a href="inc/products.php">Helpful Products</a></li></ul>
+					<li><a href="products.php">Helpful Products</a></li></ul>
 				<ul class="sub-nav-group">
-					<li><a href="inc/recreation.php">Recreation &amp; Leisure</a></li></ul>
+					<li><a href="recreation.php">Recreation &amp; Leisure</a></li></ul>
 				<ul class="sub-nav-group">
-					<li><a href="inc/support.php">Support Groups</a></li></ul>
+					<li><a href="support.php">Support Groups</a></li></ul>
 				<ul class="sub-nav-group">	
-					<li><a href="inc/family.php">For Friends &amp; Family</a></li></ul>
+					<li><a href="family.php">For Friends &amp; Family</a></li></ul>
 			</div>
 		</li>
 		<li class="nav-item">
-			<a href="inc/typesLV.php">Types of Low Vision</a>
+			<a href="typesLV.php">Types of Low Vision</a>
 			<div class="sub-nav">
 				<ul class="sub-nav-group">
-					<li><a href="inc/AMD.php">Age Related Macular Degeneration (AMD)</a></li></ul>
+					<li><a href="AMD.php">Age Related Macular Degeneration (AMD)</a></li></ul>
 				<ul class="sub-nav-group">
-					<li><a href="inc/cataracts.php">Cataracts</a></li></ul>
+					<li><a href="cataracts.php">Cataracts</a></li></ul>
 				<ul class="sub-nav-group">
-					<li><a href="inc/retinopathy.php">Diabetic Retinopathy</a></li></ul>
+					<li><a href="retinopathy.php">Diabetic Retinopathy</a></li></ul>
 				<ul class="sub-nav-group">
-					<li><a href="inc/glaucoma.php">Glaucoma</a></li></ul>
+					<li><a href="glaucoma.php">Glaucoma</a></li></ul>
 				<ul class="sub-nav-group">
-					<li><a href="inc/retinitis.php">Retinitis Pigmentosa</a></li></ul>
+					<li><a href="retinitis.php">Retinitis Pigmentosa</a></li></ul>
 				<ul class="sub-nav-group">
-					<li><a href="inc/glossary.php">Glossary</a></li></ul>
+					<li><a href="glossary.php">Glossary</a></li></ul>
 			</div>
 		</li>
 	</ul>
