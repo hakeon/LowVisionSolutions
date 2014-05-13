@@ -1,42 +1,66 @@
 html, body, p, a:link, a:visited { 
 	color:#000000; 
-	background-color:#FFFFFF;
+	background-color:#EEEC9F;
 	text-decoration: none;
 }
 
 h1, h2, h3, a:hover, a:active {
 	color:#990000; 
-	background-color:#FFFFFF;
+	background-color:#EEEC9F;
 	text-decoration: none;
+}
+
+.nameplate {
+	padding-left: 2.5%;
+}
+
+#LVC {
+	font-size: 7.5em;
+	text-shadow: 1px 1px 5px #241717;
 }
 
 .inline {
 	list-style-type: none;
-	/*padding: 0px 0px 8px 0px;*/
+	padding: 0px 0px 8px 0px;
 }
 
-#colorswitch {
+.colorswitch {
 	float: right; 
 	width: 10em;
-	border: 1px #000066 solid;
+	border: 2px #990000 solid;
 	padding:0 1em 1em 1em; margin:0px 2.5em 0px 0px;
 }
 
-#colorswitch p { 
-	padding-top:.5em; 
+.colorswitch p {
+	border: none;
+	padding-top: 1em;
 	font-weight:bold;
 }
 
-#colorswitch li {
+.colorswitch li {
 	font-style: italic;
 }
 
 #altColors {
 	color: #28d23d;
+	font-weight: bold;
 }
 
 #default {
 	color: #990000;
+	font-weight: bold;
+}
+
+/* Gradient color1 - color2 - color1 */
+		
+hr.style-one {
+    border: 0;
+    height: 1px;
+    background: #333;
+    background-image: -webkit-linear-gradient(left, #EEEC9F, #990000, #EEEC9F); 
+    background-image:    -moz-linear-gradient(left, #EEEC9F, #990000, #EEEC9F); 
+    background-image:     -ms-linear-gradient(left, #EEEC9F, #990000, #EEEC9F); 
+    background-image:      -o-linear-gradient(left, #EEEC9F, #990000, #EEEC9F); 
 }
 
 #footer {
@@ -53,6 +77,7 @@ h1, h2, h3, a:hover, a:active {
 	margin: 0;
 	padding: 0;
 	z-index: 15;
+	background-color: #EEEC9F:
 }
 
 /* a top level navigation item in the mega menu */
@@ -61,6 +86,7 @@ h1, h2, h3, a:hover, a:active {
 	display: inline-block;
 	padding: 0;
 	margin: 0;
+	background-color: #EEEC9F:
 }
 
 /* first descendant link within a top level navigation item */
@@ -69,18 +95,18 @@ h1, h2, h3, a:hover, a:active {
 	display: inline-block;
 	padding: 0.5em 1em;
 	margin: 0 0 -1px 0;
-	border: 1px solid transparent;
+	/*border: 1px solid transparent;*/
 }
 
 /* focus/open states of first descendant link within a top level navigation item */
 .nav-item > a:focus,
 .nav-item > a.open {
-	border: 1px solid #dedede;
+	/*border: 1px solid #dedede;*/
 }
 
 /* open state of first descendant link within a top level navigation item */
 .nav-item > a.open {
-	background-color: #fff;
+	background-color: #EEEC9F;
 	border-bottom: none;
 	z-index: 1;
 }
@@ -92,8 +118,8 @@ h1, h2, h3, a:hover, a:active {
 	top: 2.6em;
 	margin-top: -1px;
 	padding: 0.5em 1em;
-	border: 1px solid #dedede;
-	background-color: #fff;
+	/*border: 1px solid #dedede;*/
+	background-color: #EEEC9F;
 }
 
 /* sub-navigation panel open state */

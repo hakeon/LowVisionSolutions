@@ -1,4 +1,4 @@
-<nav>
+<nav class="nameplate">
 	<ul class="nav-menu">
 		<li class="nav-item">
 			<a href="index.php">Home Page</a>
