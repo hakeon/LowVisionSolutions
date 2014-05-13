@@ -10,7 +10,7 @@
 	<?php include("inc/nav.php");?>
 	<div class="content">
 		<h3>What is Low Vision?</h3>
-		<p>Low vision is a visual impairment, not correctable by standard glasses, contact lenses, medicine, or surgery, that interferes with a 		person's ability to perform everyday activities. Low vision can result from a variety of diseases, disorders, and injuries, including 			macular degeneration, glaucoma, and diabetic retinopathy, making it difficult, and possibly dangerous, to do simple daily tasks. Low 			Vision Certified Occupational Therapy can help people with low vision function safely and comfortably, maximizing their potential, and 			expanding their opportunities to continue with their work, family, and home.
+		<p>Low vision is a visual impairment, not correctable by standard glasses, contact lenses, medicine, or surgery, that interferes with a person's ability to perform everyday activities. Low vision can result from a variety of diseases, disorders, and injuries, including macular degeneration, glaucoma, and diabetic retinopathy, making it difficult, and possibly dangerous, to do simple daily tasks. Low Vision Certified Occupational Therapy can help people with low vision function safely and comfortably, maximizing their potential, and expanding their opportunities to continue with their work, family, and home.
 		</p>
 		<h3>What Can Low Vision Occupational Therapy Do For Me?</h3>
 		<p>Low Vision Occupational Therapy can help in many ways including:</p>
