@@ -65,11 +65,11 @@ hr.style-one {
     background-image:      -o-linear-gradient(left, #EEEC9F, #990000, #EEEC9F); 
 }
 
-#content {
+.content {
 	width: 75%;
 	float: right;
 	clear: right;
-	margin: 0px 7.5px 0px 0px;
+	margin: 3px 7px 0px 3px;
 	padding: 0px 5px 0px 0px;
 }
 
