@@ -1,11 +1,10 @@
 html, body, h1, h2, h3, p, a { 
 	color:#28D23D; 
-	background-color:#424242; 
+	background-color:#424242;
 }
 
 .colorswitch {
-	color:#28d23d; 
-	background-color:#EEEC9F;
+	color:#28d23d;
 	float: right; 
 	width: 10em;
 	border: 1px #28d23d solid;
@@ -14,7 +13,6 @@ html, body, h1, h2, h3, p, a {
 
 .colorswitch p {
 	color: #000000;
-	background-color: #EEEC9F;
 }
 
 hr.style-one {

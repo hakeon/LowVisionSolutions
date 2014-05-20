@@ -1,0 +1,31 @@
+# .htaccess for LowVisionSolutions
+
+
+# enable expirations
+ExpiresActive On
+
+# 1 WEEK
+<FilesMatch "\.(jpg|jpeg|png|gif|swf)$">
+Header set Cache-Control "max-age=604800, public"
+</FilesMatch>
+ 
+# 2 DAYS
+<FilesMatch "\.(xml|txt|css|js)$">
+Header set Cache-Control "max-age=172800, proxy-revalidate"
+</FilesMatch>
+ 
+# 1 MIN
+<FilesMatch "\.(html|htm|php)$">
+Header set Cache-Control "max-age=60, private, proxy-revalidate"
+</FilesMatch>
+#.....................................................................
+
+
+# compress XHTML, HTML, CSS, JavaScript
+AddOutputFilterByType DEFLATE text/xml
+AddOutputFilterByType DEFLATE text/xhtml
+AddOutputFilterByType DEFLATE text/html
+AddOutputFilterByType DEFLATE text/css
+AddOutputFilterByType DEFLATE application/x-javascript
+AddOutputFilterByType DEFLATE text/plain
+#.....................................................................

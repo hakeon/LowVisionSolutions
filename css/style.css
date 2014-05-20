@@ -1,12 +1,12 @@
 html, body, p, a:link, a:visited { 
 	color:#000000; 
-	background-color:#EEEC9F;
+	background-color:#FAF7E7;
 	text-decoration: none;
 }
 
 h1, h2, h3, a:hover, a:active {
 	color:#990000; 
-	background-color:#EEEC9F;
+	background-color:#FAF7E7;
 	text-decoration: none;
 }
 
@@ -25,6 +25,7 @@ h1, h2, h3, a:hover, a:active {
 }
 
 .colorswitch {
+	background-color: #FAF7EF;
 	float: right; 
 	width: 10em;
 	border: 2px #990000 solid;
@@ -32,6 +33,7 @@ h1, h2, h3, a:hover, a:active {
 }
 
 .colorswitch p {
+	background-color: #FAF7EF;
 	border: none;
 	padding-top: 1em;
 	font-weight:bold;
@@ -63,10 +65,12 @@ hr.style-one {
     background-image:      -o-linear-gradient(left, #EEEC9F, #990000, #EEEC9F); 
 }
 
-.content {
-	padding: 5em 5em 0px 15%;
-	/*padding-left: 20%;
-	padding-top: 10em;*/
+#content {
+	width: 75%;
+	float: right;
+	clear: right;
+	margin: 0px 7.5px 0px 0px;
+	padding: 0px 5px 0px 0px;
 }
 
 #emailPrompt {
@@ -82,6 +86,13 @@ hr.style-one {
 #contentPending {
 	padding-left: 33%;
 	text-shadow: 1px 1px 5px #241717;
+}
+
+#photo {
+	width: 20%;
+	float: left;
+	margin: 1em;
+	padding: 1px;
 }
 
  /* mega menu list */
@@ -119,7 +130,7 @@ hr.style-one {
 
 /* open state of first descendant link within a top level navigation item */
 .nav-item > a.open {
-	background-color: #EEEC9F;
+	background-color: #FAF7E7;
 	border-bottom: none;
 	z-index: 1;
 }
@@ -132,7 +143,7 @@ hr.style-one {
 	margin-top: -1px;
 	padding: 0.5em 1em;
 	/*border: 1px solid #dedede;*/
-	background-color: #EEEC9F;
+	background-color: #FAF7E7;
 }
 
 /* sub-navigation panel open state */
