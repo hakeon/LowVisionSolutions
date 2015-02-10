@@ -8,6 +8,10 @@
 <div id="container">
 	<?php include("inc/header.php");?>
 	<?php include("inc/nav.php");?>
+	</div>
+		<div id="photo">
+		<img src="images/AMD.jpg" width="100%" height="100%" alt="This is an image of two children as seen by somebody with AMD.">
+	</div>
 	<div class="content">
 		<h3>What is AMD?</h3>
 		<p>

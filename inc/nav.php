@@ -39,6 +39,7 @@
 		</li>
 	</ul>
 </nav>
+<hr class="style-one">
 <script>
 	$("nav:first").accessibleMegaMenu({
             /* prefix for generated unique id attributes, which are required 

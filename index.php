@@ -8,10 +8,9 @@
 <div id="container">
 	<?php include("inc/header.php");?>
 	<?php include("inc/nav.php");?>
-	<hr class="style-one">
 	</div>
 		<div id="photo">
-		<img src="images/golf_pic.png" alt="This is a distorted image of a man golfing.">
+		<img src="images/normChildren.jpg" width="100%" height="95%" alt="This is an image of two children seen by normal vision.">
 	</div>
 	<div class="content">
 		<h3>What is Low Vision?</h3>
