@@ -73,8 +73,12 @@ hr.style-one {
 	padding: 0px 5px 0px 0px;
 }
 
+#explore {
+    padding-left: 15%;
+}
+
 #emailPrompt {
-	padding-left: 20%;
+	padding-left: 33%;
 	font-size: 200%;
 }
 
